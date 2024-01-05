@@ -1,0 +1,10 @@
+java
+programming
+computer
+hangman
+software
+algorithm
+debugging
+interface
+variable
+loop
